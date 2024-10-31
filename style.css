@@ -1,1 +1,11 @@
-ECHO is on.
+h2{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+    background-color: rgb(189, 189, 228);
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    
+}

@@ -1,1 +1,4 @@
-This is one.txt file 
+This is one.txt file .
+testing successfully. 
+ready to code .
+bug is fixed.
